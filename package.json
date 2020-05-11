@@ -1,6 +1,6 @@
 {
   "name": "lightquery-orm",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Direct client-side query for TypeORM databases",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,5 @@
   "bugs": {
     "url": "https://github.com/mitkonikov/lightquery-orm/issues"
   },
-  "homepage": "https://github.com/mitkonikov/lightquery-orm#readme"
+  "homepage": "https://github.com/mitkonikov/lightquery-orm"
 }

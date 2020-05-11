@@ -26,6 +26,13 @@ let body = {
 
 This is an example JSON syntax for the body of the request to Light. `"word"` is the name of the repository in the switch function (see below). `select` is required, while `where` is not. 
 
+## Usage
+
+Import in Typescript:
+
+```typescript
+import { light } from "lightquery-orm";
+```
 
 ## Switch function
 
