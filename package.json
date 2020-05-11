@@ -1,0 +1,25 @@
+{
+  "name": "lightquery-orm",
+  "version": "1.0.0",
+  "description": "Direct client-side query for TypeORM databases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitkonikov/lightquery-orm.git"
+  },
+  "keywords": [
+    "query",
+    "sql",
+    "typeorm",
+    "client-side"
+  ],
+  "author": "Mitko Nikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitkonikov/lightquery-orm/issues"
+  },
+  "homepage": "https://github.com/mitkonikov/lightquery-orm#readme"
+}

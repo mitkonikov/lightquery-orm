@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+       "lib": [
+          "es6"
+       ],
+       "target": "es6",
+       "module": "commonjs",
+       "moduleResolution": "node",
+       "rootDir": ".",
+       "outDir": ".",
+       "baseUrl": ".",
+       "removeComments": true,
+       "sourceMap": true
+    },
+    "exclude": [
+       "node_modules",
+       "**/*.spec.ts"
+   ]
+}
