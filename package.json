@@ -1,6 +1,6 @@
 {
   "name": "lightquery-orm",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Direct client-side query for TypeORM databases",
   "main": "index.js",
   "scripts": {
